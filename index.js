@@ -1,0 +1,16 @@
+var Bomdia = "bomdia";
+console.log(Bomdia);
+var Recebercadastro ="Recebercadastro";
+console.log(Recebercadastro);
+var japossuicadastro = "japossuicadastro";
+console.log(japossuicadastro);
+var cadastrarevento = "cadastrarevento";
+console.log(cadastrarevento);
+var cadastroemanalise = "cadastroemanalise";
+console.log(cadastroemanalise);
+var cadastrofeito = "cadastrofeito";
+console.log(cadastrofeito);
+var cadastroaprovado = "cadastroaprovado";
+console.log(cadastroaprovado);
+var fim = "fim";
+console.log(fim);
